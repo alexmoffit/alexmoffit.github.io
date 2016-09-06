@@ -96,6 +96,7 @@ body {
 
 @media (min-width: 48em) {
   .masthead-brand {
+    font-family: 'Bungee Shade', cursive;
     float: left;
   }
   .nav-masthead {
